@@ -61,7 +61,7 @@ This project fulfills all requirements from the Codédex HTML Final Project:
 
 ## 📁 File Structure
 cafe-website/
-│
-├── index.html # Main website file
-└── README.md # Project documentation
+- │
+- ├── index.html # Main website file
+- └── README.md # Project documentation
 
